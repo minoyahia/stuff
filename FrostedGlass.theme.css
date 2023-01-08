@@ -55,7 +55,7 @@
 
   /* Other variables */
   --window-padding: 0px; /* Spacing around the Discord window | DEFAULT: 20px */
-  --window-roundness: 20px; /* Roundness of Discord | DEFAULT: 10px */
+  --window-roundness: 0px; /* Roundness of Discord | DEFAULT: 10px */
   --scrollbar-colour: rgba(255,255,255,0.05); /* DEFAULT: rgba(255,255,255,0.05) */
   --link-colour: #00b0f4; /* DEFAULT: #00b0f4 */
 
